@@ -9,5 +9,6 @@ int main(void)
 
   // this returns 0
   // comment
+  // 1234
   return 0;
 }
