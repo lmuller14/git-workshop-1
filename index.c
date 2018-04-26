@@ -10,5 +10,6 @@ int main(void)
   // this returns 0
   // comment
   // 1234
+  // another dummy comment
   return 0;
 }
