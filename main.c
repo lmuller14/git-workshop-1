@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 // test note
+// another commit
 int main(void)
 {
   printf("Hello World\n");
